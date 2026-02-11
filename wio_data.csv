@@ -1,0 +1,241 @@
+Month,Segment,Product Type,Product Name,Total Volume (AED),Active Customers,NIM (%),NPL Ratio (%)
+Jan,Corporate,Asset,Term Loans,450000000,45,3.2,0.8
+Jan,Corporate,Asset,Bills Discounting,120000000,32,2.5,0.5
+Jan,Corporate,Asset,Supply Chain Financing,280000000,28,2.8,0.4
+Jan,Corporate,Asset,Overdraft,55000000,15,3.5,1.2
+Jan,Corporate,Liability,Current Account,850000000,110,3.8,0.0
+Jan,Corporate,Liability,Saving Account,150000000,40,1.8,0.0
+Jan,Corporate,Liability,Fixed Deposits,1200000000,65,1.1,0.0
+Jan,SME,Asset,Term Loans,15500000,140,4.8,3.2
+Jan,SME,Asset,Bills Discounting,12000000,85,4.2,2.8
+Jan,SME,Asset,Supply Chain Financing,6500000,42,4.5,2.5
+Jan,SME,Asset,Overdraft,8200000,210,5.5,4.1
+Jan,SME,Liability,Current Account,95000000,2800,4.2,0.0
+Jan,SME,Liability,Saving Account,45000000,1200,2.5,0.0
+Jan,SME,Liability,Fixed Deposits,32000000,180,1.5,0.0
+Jan,Retail,Asset,Term Loans,12000000,850,5.2,3.8
+Jan,Retail,Asset,Credit Cards,4500000,4500,12.5,5.5
+Jan,Retail,Asset,Overdraft,1200000,350,7.2,6.2
+Jan,Retail,Liability,Current Account,35000000,15000,4.5,0.0
+Jan,Retail,Liability,Saving Account,65000000,12500,2.1,0.0
+Jan,Retail,Liability,Fixed Deposits,110000000,3200,1.4,0.0
+Feb,Corporate,Asset,Term Loans,452000000,46,3.2,0.8
+Feb,Corporate,Asset,Bills Discounting,121000000,33,2.5,0.5
+Feb,Corporate,Asset,Supply Chain Financing,282000000,29,2.8,0.4
+Feb,Corporate,Asset,Overdraft,54500000,16,3.5,1.1
+Feb,Corporate,Liability,Current Account,855000000,112,3.8,0.0
+Feb,Corporate,Liability,Saving Account,152000000,42,1.8,0.0
+Feb,Corporate,Liability,Fixed Deposits,1210000000,66,1.1,0.0
+Feb,SME,Asset,Term Loans,15650000,142,4.8,3.3
+Feb,SME,Asset,Bills Discounting,12200000,86,4.2,2.9
+Feb,SME,Asset,Supply Chain Financing,6600000,43,4.5,2.4
+Feb,SME,Asset,Overdraft,8350000,215,5.5,4.0
+Feb,SME,Liability,Current Account,96500000,2850,4.2,0.0
+Feb,SME,Liability,Saving Account,45500000,1210,2.5,0.0
+Feb,SME,Liability,Fixed Deposits,32500000,182,1.5,0.0
+Feb,Retail,Asset,Term Loans,12150000,860,5.2,3.7
+Feb,Retail,Asset,Credit Cards,4100000,4450,12.5,5.6
+Feb,Retail,Asset,Overdraft,1250000,355,7.2,6.1
+Feb,Retail,Liability,Current Account,35500000,15200,4.5,0.0
+Feb,Retail,Liability,Saving Account,65500000,12600,2.1,0.0
+Feb,Retail,Liability,Fixed Deposits,112000000,3250,1.4,0.0
+Mar,Corporate,Asset,Term Loans,455000000,47,3.2,0.9
+Mar,Corporate,Asset,Bills Discounting,123000000,34,2.5,0.5
+Mar,Corporate,Asset,Supply Chain Financing,285000000,30,2.8,0.4
+Mar,Corporate,Asset,Overdraft,56000000,17,3.5,1.2
+Mar,Corporate,Liability,Current Account,860000000,115,3.8,0.0
+Mar,Corporate,Liability,Saving Account,155000000,45,1.8,0.0
+Mar,Corporate,Liability,Fixed Deposits,1225000000,68,1.1,0.0
+Mar,SME,Asset,Term Loans,15800000,145,4.8,3.4
+Mar,SME,Asset,Bills Discounting,12400000,88,4.2,2.8
+Mar,SME,Asset,Supply Chain Financing,6750000,45,4.5,2.4
+Mar,SME,Asset,Overdraft,8500000,220,5.5,4.2
+Mar,SME,Liability,Current Account,98000000,2900,4.2,0.0
+Mar,SME,Liability,Saving Account,46500000,1250,2.5,0.0
+Mar,SME,Liability,Fixed Deposits,33500000,185,1.5,0.0
+Mar,Retail,Asset,Term Loans,12300000,875,5.2,3.9
+Mar,Retail,Asset,Credit Cards,4200000,4500,12.5,5.4
+Mar,Retail,Asset,Overdraft,1280000,360,7.2,6.0
+Mar,Retail,Liability,Current Account,36000000,15500,4.5,0.0
+Mar,Retail,Liability,Saving Account,67000000,12800,2.1,0.0
+Mar,Retail,Liability,Fixed Deposits,115000000,3300,1.4,0.0
+Apr,Corporate,Asset,Term Loans,458000000,48,3.2,0.9
+Apr,Corporate,Asset,Bills Discounting,125000000,35,2.5,0.5
+Apr,Corporate,Asset,Supply Chain Financing,288000000,32,2.8,0.4
+Apr,Corporate,Asset,Overdraft,57000000,18,3.5,1.3
+Apr,Corporate,Liability,Current Account,870000000,118,3.8,0.0
+Apr,Corporate,Liability,Saving Account,158000000,48,1.8,0.0
+Apr,Corporate,Liability,Fixed Deposits,1240000000,70,1.1,0.0
+Apr,SME,Asset,Term Loans,16000000,148,4.8,3.5
+Apr,SME,Asset,Bills Discounting,12600000,90,4.2,2.9
+Apr,SME,Asset,Supply Chain Financing,6900000,48,4.5,2.3
+Apr,SME,Asset,Overdraft,8650000,225,5.5,4.3
+Apr,SME,Liability,Current Account,100000000,3000,4.2,0.0
+Apr,SME,Liability,Saving Account,48000000,1300,2.5,0.0
+Apr,SME,Liability,Fixed Deposits,35000000,190,1.5,0.0
+Apr,Retail,Asset,Term Loans,12500000,890,5.2,4.0
+Apr,Retail,Asset,Credit Cards,4300000,4600,12.5,5.3
+Apr,Retail,Asset,Overdraft,1300000,370,7.2,5.9
+Apr,Retail,Liability,Current Account,37000000,15800,4.5,0.0
+Apr,Retail,Liability,Saving Account,68500000,13000,2.1,0.0
+Apr,Retail,Liability,Fixed Deposits,118000000,3400,1.4,0.0
+May,Corporate,Asset,Term Loans,460000000,49,3.2,0.9
+May,Corporate,Asset,Bills Discounting,127000000,36,2.5,0.5
+May,Corporate,Asset,Supply Chain Financing,292000000,34,2.8,0.4
+May,Corporate,Asset,Overdraft,58000000,19,3.5,1.4
+May,Corporate,Liability,Current Account,880000000,122,3.8,0.0
+May,Corporate,Liability,Saving Account,162000000,52,1.8,0.0
+May,Corporate,Liability,Fixed Deposits,1260000000,72,1.1,0.0
+May,SME,Asset,Term Loans,16200000,152,4.8,3.4
+May,SME,Asset,Bills Discounting,12800000,92,4.2,3.0
+May,SME,Asset,Supply Chain Financing,7100000,52,4.5,2.2
+May,SME,Asset,Overdraft,8800000,230,5.5,4.4
+May,SME,Liability,Current Account,102000000,3100,4.2,0.0
+May,SME,Liability,Saving Account,50000000,1350,2.5,0.0
+May,SME,Liability,Fixed Deposits,37000000,195,1.5,0.0
+May,Retail,Asset,Term Loans,12700000,910,5.2,4.1
+May,Retail,Asset,Credit Cards,4450000,4700,12.5,5.2
+May,Retail,Asset,Overdraft,1320000,380,7.2,5.8
+May,Retail,Liability,Current Account,38000000,16100,4.5,0.0
+May,Retail,Liability,Saving Account,70000000,13500,2.1,0.0
+May,Retail,Liability,Fixed Deposits,120000000,3500,1.4,0.0
+Jun,Corporate,Asset,Term Loans,465000000,50,3.2,1.0
+Jun,Corporate,Asset,Bills Discounting,130000000,38,2.5,0.6
+Jun,Corporate,Asset,Supply Chain Financing,295000000,36,2.8,0.4
+Jun,Corporate,Asset,Overdraft,59500000,20,3.5,1.5
+Jun,Corporate,Liability,Current Account,895000000,125,3.8,0.0
+Jun,Corporate,Liability,Saving Account,165000000,55,1.8,0.0
+Jun,Corporate,Liability,Fixed Deposits,1280000000,75,1.1,0.0
+Jun,SME,Asset,Term Loans,16500000,155,4.8,3.6
+Jun,SME,Asset,Bills Discounting,13000000,95,4.2,3.1
+Jun,SME,Asset,Supply Chain Financing,7300000,55,4.5,2.1
+Jun,SME,Asset,Overdraft,9000000,240,5.5,4.6
+Jun,SME,Liability,Current Account,105000000,3200,4.2,0.0
+Jun,SME,Liability,Saving Account,52000000,1400,2.5,0.0
+Jun,SME,Liability,Fixed Deposits,39000000,205,1.5,0.0
+Jun,Retail,Asset,Term Loans,13000000,940,5.2,4.3
+Jun,Retail,Asset,Credit Cards,4550000,4850,12.5,5.4
+Jun,Retail,Asset,Overdraft,1350000,395,7.2,5.7
+Jun,Retail,Liability,Current Account,39500000,16500,4.5,0.0
+Jun,Retail,Liability,Saving Account,72000000,14000,2.1,0.0
+Jun,Retail,Liability,Fixed Deposits,125000000,3650,1.4,0.0
+Jul,Corporate,Asset,Term Loans,468000000,52,3.2,1.1
+Jul,Corporate,Asset,Bills Discounting,132000000,40,2.5,0.6
+Jul,Corporate,Asset,Supply Chain Financing,300000000,38,2.8,0.4
+Jul,Corporate,Asset,Overdraft,61000000,22,3.5,1.6
+Jul,Corporate,Liability,Current Account,910000000,130,3.8,0.0
+Jul,Corporate,Liability,Saving Account,170000000,60,1.8,0.0
+Jul,Corporate,Liability,Fixed Deposits,1300000000,80,1.1,0.0
+Jul,SME,Asset,Term Loans,16800000,160,4.8,3.8
+Jul,SME,Asset,Bills Discounting,13300000,98,4.2,3.3
+Jul,SME,Asset,Supply Chain Financing,7600000,58,4.5,2.0
+Jul,SME,Asset,Overdraft,9250000,250,5.5,4.8
+Jul,SME,Liability,Current Account,108000000,3350,4.2,0.0
+Jul,SME,Liability,Saving Account,55000000,1480,2.5,0.0
+Jul,SME,Liability,Fixed Deposits,41000000,215,1.5,0.0
+Jul,Retail,Asset,Term Loans,13300000,970,5.2,4.5
+Jul,Retail,Asset,Credit Cards,4400000,4900,12.5,5.6
+Jul,Retail,Asset,Overdraft,1380000,410,7.2,5.9
+Jul,Retail,Liability,Current Account,41000000,17000,4.5,0.0
+Jul,Retail,Liability,Saving Account,74000000,14500,2.1,0.0
+Jul,Retail,Liability,Fixed Deposits,128000000,3800,1.4,0.0
+Aug,Corporate,Asset,Term Loans,472000000,54,3.2,1.2
+Aug,Corporate,Asset,Bills Discounting,135000000,42,2.5,0.7
+Aug,Corporate,Asset,Supply Chain Financing,305000000,40,2.8,0.5
+Aug,Corporate,Asset,Overdraft,63000000,24,3.5,1.8
+Aug,Corporate,Liability,Current Account,925000000,135,3.8,0.0
+Aug,Corporate,Liability,Saving Account,175000000,65,1.8,0.0
+Aug,Corporate,Liability,Fixed Deposits,1325000000,85,1.1,0.0
+Aug,SME,Asset,Term Loans,17200000,165,4.8,4.0
+Aug,SME,Asset,Bills Discounting,13600000,102,4.2,3.5
+Aug,SME,Asset,Supply Chain Financing,8000000,62,4.5,2.1
+Aug,SME,Asset,Overdraft,9500000,265,5.5,5.1
+Aug,SME,Liability,Current Account,112000000,3500,4.2,0.0
+Aug,SME,Liability,Saving Account,58000000,1550,2.5,0.0
+Aug,SME,Liability,Fixed Deposits,43000000,225,1.5,0.0
+Aug,Retail,Asset,Term Loans,13700000,1010,5.2,4.8
+Aug,Retail,Asset,Credit Cards,4200000,4800,12.5,5.8
+Aug,Retail,Asset,Overdraft,1410000,430,7.2,6.2
+Aug,Retail,Liability,Current Account,42500000,17800,4.5,0.0
+Aug,Retail,Liability,Saving Account,76500000,15200,2.1,0.0
+Aug,Retail,Liability,Fixed Deposits,132000000,4000,1.4,0.0
+Sep,Corporate,Asset,Term Loans,478000000,56,3.2,1.2
+Sep,Corporate,Asset,Bills Discounting,140000000,45,2.5,0.7
+Sep,Corporate,Asset,Supply Chain Financing,320000000,45,2.8,0.5
+Sep,Corporate,Asset,Overdraft,65000000,26,3.5,1.7
+Sep,Corporate,Liability,Current Account,940000000,140,3.8,0.0
+Sep,Corporate,Liability,Saving Account,180000000,70,1.8,0.0
+Sep,Corporate,Liability,Fixed Deposits,1350000000,90,1.1,0.0
+Sep,SME,Asset,Term Loans,17600000,172,4.8,4.1
+Sep,SME,Asset,Bills Discounting,14000000,108,4.2,3.6
+Sep,SME,Asset,Supply Chain Financing,8500000,68,4.5,2.2
+Sep,SME,Asset,Overdraft,9800000,280,5.5,5.3
+Sep,SME,Liability,Current Account,116000000,3700,4.2,0.0
+Sep,SME,Liability,Saving Account,62000000,1650,2.5,0.0
+Sep,SME,Liability,Fixed Deposits,46000000,240,1.5,0.0
+Sep,Retail,Asset,Term Loans,14100000,1050,5.2,4.9
+Sep,Retail,Asset,Credit Cards,4350000,4900,12.5,5.5
+Sep,Retail,Asset,Overdraft,1440000,450,7.2,6.5
+Sep,Retail,Liability,Current Account,44000000,18500,4.5,0.0
+Sep,Retail,Liability,Saving Account,79000000,16000,2.1,0.0
+Sep,Retail,Liability,Fixed Deposits,136000000,4200,1.4,0.0
+Oct,Corporate,Asset,Term Loans,485000000,58,3.2,1.1
+Oct,Corporate,Asset,Bills Discounting,150000000,48,2.5,0.6
+Oct,Corporate,Asset,Supply Chain Financing,350000000,50,2.8,0.4
+Oct,Corporate,Asset,Overdraft,68000000,28,3.5,1.6
+Oct,Corporate,Liability,Current Account,960000000,145,3.8,0.0
+Oct,Corporate,Liability,Saving Account,190000000,75,1.8,0.0
+Oct,Corporate,Liability,Fixed Deposits,1380000000,95,1.1,0.0
+Oct,SME,Asset,Term Loans,18200000,180,4.8,3.9
+Oct,SME,Asset,Bills Discounting,14800000,115,4.2,3.4
+Oct,SME,Asset,Supply Chain Financing,9200000,75,4.5,2.1
+Oct,SME,Asset,Overdraft,10200000,300,5.5,5.0
+Oct,SME,Liability,Current Account,120000000,3900,4.2,0.0
+Oct,SME,Liability,Saving Account,66000000,1750,2.5,0.0
+Oct,SME,Liability,Fixed Deposits,50000000,260,1.5,0.0
+Oct,Retail,Asset,Term Loans,14500000,1100,5.2,4.6
+Oct,Retail,Asset,Credit Cards,4800000,5200,12.5,5.2
+Oct,Retail,Asset,Overdraft,1480000,480,7.2,6.2
+Oct,Retail,Liability,Current Account,46000000,19500,4.5,0.0
+Oct,Retail,Liability,Saving Account,82000000,17000,2.1,0.0
+Oct,Retail,Liability,Fixed Deposits,140000000,4500,1.4,0.0
+Nov,Corporate,Asset,Term Loans,495000000,60,3.2,1.0
+Nov,Corporate,Asset,Bills Discounting,165000000,52,2.5,0.5
+Nov,Corporate,Asset,Supply Chain Financing,380000000,55,2.8,0.4
+Nov,Corporate,Asset,Overdraft,72000000,30,3.5,1.5
+Nov,Corporate,Liability,Current Account,980000000,152,3.8,0.0
+Nov,Corporate,Liability,Saving Account,205000000,82,1.8,0.0
+Nov,Corporate,Liability,Fixed Deposits,1410000000,105,1.1,0.0
+Nov,SME,Asset,Term Loans,18800000,188,4.8,3.7
+Nov,SME,Asset,Bills Discounting,15800000,125,4.2,3.1
+Nov,SME,Asset,Supply Chain Financing,10500000,85,4.5,2.0
+Nov,SME,Asset,Overdraft,10800000,320,5.5,4.7
+Nov,SME,Liability,Current Account,126000000,4100,4.2,0.0
+Nov,SME,Liability,Saving Account,72000000,1900,2.5,0.0
+Nov,SME,Liability,Fixed Deposits,55000000,285,1.5,0.0
+Nov,Retail,Asset,Term Loans,14900000,1150,5.2,4.3
+Nov,Retail,Asset,Credit Cards,5500000,5800,12.5,5.0
+Nov,Retail,Asset,Overdraft,1520000,510,7.2,5.9
+Nov,Retail,Liability,Current Account,48500000,21000,4.5,0.0
+Nov,Retail,Liability,Saving Account,86000000,18500,2.1,0.0
+Nov,Retail,Liability,Fixed Deposits,145000000,4800,1.4,0.0
+Dec,Corporate,Asset,Term Loans,510000000,65,3.2,1.0
+Dec,Corporate,Asset,Bills Discounting,180000000,58,2.5,0.5
+Dec,Corporate,Asset,Supply Chain Financing,420000000,62,2.8,0.4
+Dec,Corporate,Asset,Overdraft,75000000,35,3.5,1.4
+Dec,Corporate,Liability,Current Account,1020000000,165,3.8,0.0
+Dec,Corporate,Liability,Saving Account,225000000,95,1.8,0.0
+Dec,Corporate,Liability,Fixed Deposits,1450000000,120,1.1,0.0
+Dec,SME,Asset,Term Loans,19500000,205,4.8,3.5
+Dec,SME,Asset,Bills Discounting,17000000,140,4.2,2.9
+Dec,SME,Asset,Supply Chain Financing,12000000,105,4.5,1.9
+Dec,SME,Asset,Overdraft,11500000,350,5.5,4.5
+Dec,SME,Liability,Current Account,135000000,4500,4.2,0.0
+Dec,SME,Liability,Saving Account,80000000,2200,2.5,0.0
+Dec,SME,Liability,Fixed Deposits,62000000,315,1.5,0.0
+Dec,Retail,Asset,Term Loans,15500000,1220,5.2,4.1
+Dec,Retail,Asset,Credit Cards,6800000,6500,12.5,4.8
+Dec,Retail,Asset,Overdraft,1600000,550,7.2,5.6
+Dec,Retail,Liability,Current Account,52000000,23000,4.5,0.0
+Dec,Retail,Liability,Saving Account,92000000,21000,2.1,0.0
+Dec,Retail,Liability,Fixed Deposits,155000000,5200,1.4,0.0
